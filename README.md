@@ -83,3 +83,36 @@ Start with the core services that are the building blocks of AWS.
 - Orchestrating workflows.
 #### Amazon API Gateway:
 - Managing APIs at scale.
+
+## 7. Security and Compliance
+#### AWS KMS (Key Management Service):
+- Encryption keys.
+#### AWS Shield:
+- DDoS protection.
+#### AWS WAF (Web Application Firewall):
+- Protecting web applications.
+#### Best Practices:
+- Implementing AWS Well-Architected Framework.
+
+## 8. Cost Management
+#### AWS Pricing Calculator:
+- Estimate costs.
+#### AWS Budgets:
+- Set and manage budgets.
+#### AWS Cost Explorer:
+- Analyze and optimize spending.
+
+## 9. Deployment and Architecture
+#### Learn architectural patterns:
+- High Availability (HA) architecture.
+- Fault-tolerant and scalable designs.
+#### Work with microservices:
+- Deploy with Docker and Kubernetes.
+
+## 10. Specialize in AWS Domains
+#### DevOps on AWS:
+- Automate and manage deployments.
+#### Data Engineering on AWS:
+- Use services like Glue, Redshift, and EMR.
+#### AI/ML on AWS:
+- Leverage SageMaker and related services.
